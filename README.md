@@ -3,7 +3,7 @@ Use LLM tools from the command line!
 
 Usage: 
 
-    ai.py [-h] [-e EXPRESSION] [-m MODEL] [-k API_KEY] [-f FILE] [-s SYSTEM]
+    python3 ai.py [-h] [-e EXPRESSION] [-m MODEL] [-k API_KEY] [-f FILE] [-s SYSTEM]
     
     Send input to the Gemini API and output the response.
     
