@@ -34,7 +34,7 @@ Use LLM tools from the command line!
       -f FILE, --file FILE  Path to a file containing a single prompt to send to the model from the command line.
     
     
-    Example:
+Example:
     
         $ python3 ai.py -s "Output only the usernames and user IDs with a colon delimiter." < passwd 
         root:0
