@@ -1,5 +1,5 @@
 # ai
-    Use LLM tools from the command line!
+Use LLM tools from the command line!
     
     Usage: ai.py [-h] [-k API_KEY] [-s SYSTEM_INSTRUCTION] [-S SYSTEM_INSTRUCTION_FILE] [-p PROMPT_PREFIX]
                  [-P PROMPT_PREFIX_FILE] [-m MODEL] [--list-models] [-w SAVE_HISTORY] [-l LOAD_HISTORY] [-v] [-o | -c]
